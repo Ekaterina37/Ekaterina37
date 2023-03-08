@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ekaterina37
-- 👀 I’m interested in ML, Big Data, AI, Pyhton
+- 👀 I’m interested in ML, Data Science, Pyhton, NLP
 - 🌱 I’m currently learning ML, Big Data and Web development
-- 💞️ I’m looking to collaborate on rpjects related to AI, ML and Big Data
+- 💞️ I’m looking to collaborate on projects related to AI, ML and Big Data
 
 
 <!---
